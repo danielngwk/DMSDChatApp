@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410852471109",
+    "firebase_url": "https://dmsd-chat-app.firebaseio.com",
+    "project_id": "dmsd-chat-app",
+    "storage_bucket": "dmsd-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410852471109:android:627c26f72030e05f",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.webservices.dmsdchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410852471109-o1qm9j37vcn95j8pp4ekcbnmuu4t4djj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nn7fOUEys3ZoKkzMlO17MP6R9FTZGSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
